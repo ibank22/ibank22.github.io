@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/css/main.822a1d91.css",
-    "main.js": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/js/main.11526354.js",
+    "main.js": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/js/main.80f31dd7.js",
     "static/js/453.36e33fd2.chunk.js": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/js/453.36e33fd2.chunk.js",
     "static/media/img2.jpg": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/media/img2.32c11b4a7b10a3d16aa4.jpg",
     "static/media/logo-white.png": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/media/logo-white.0316fd1c0bf625ce283c.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/index.html",
     "main.822a1d91.css.map": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/css/main.822a1d91.css.map",
-    "main.11526354.js.map": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/js/main.11526354.js.map",
+    "main.80f31dd7.js.map": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/js/main.80f31dd7.js.map",
     "453.36e33fd2.chunk.js.map": "https://ibank22.github.io/gebyar-hadiah-bank-bengkulu/static/js/453.36e33fd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.822a1d91.css",
-    "static/js/main.11526354.js"
+    "static/js/main.80f31dd7.js"
   ]
 }
